@@ -20,7 +20,7 @@ My passion for helping clients aligns well with the field of cybersecurity, wher
 
 ## Projects
 - <a href="https://github.com/Tiana-C/Internal-Security-Audit">Internal Security Audit</a>
-## Hi there 👋
+
 
 <!--
 **Tiana-C/Tiana-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
