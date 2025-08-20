@@ -17,8 +17,8 @@ My passion for helping clients aligns well with the field of cybersecurity, wher
 <div>
 <img src="https://img.shields.io/badge/-Google Cybersecurity-176BEF?&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-CompTIA A+-E63615?&style=for-the-badge" />
-<img src="https://img.shields.io/badge/-AWS Solutions Architect Associate-E63615?&style=for-the-badge" />
-<img src="https://img.shields.io/badge/-AWS AI Practitioner-E63615?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-AWS Solutions Architect Associate-2F0069?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-AWS AI Practitioner-2F0069?&style=for-the-badge" />
 </div>
 
 ## Projects
