@@ -12,7 +12,7 @@ My passion for helping clients aligns well with the field of cybersecurity, wher
 |-----------------------------------------------|----------------------------|
 | Internal Security Audit         | <a href="https://github.com/Tiana-C/Internal-Security-Audit">Internal Security Audit</a>|
 
-## Certifications
+## 🌟Certifications
 
 <div>
 <a href="https://www.credly.com/badges/f39e42f5-ae65-4f12-a851-1cdec5a103a5/public_url"><img src="https://img.shields.io/badge/-Google Cybersecurity-176BEF?&style=for-the-badge" />
@@ -21,12 +21,12 @@ My passion for helping clients aligns well with the field of cybersecurity, wher
 <a href="https://www.credly.com/badges/3e19d91c-17f4-42cd-979d-ecbcd8ea9864/public_url"><img src="https://img.shields.io/badge/-AWS AI Practitioner-2F0069?&style=for-the-badge" />
 </div>
 
-## Projects
+## ✅Projects
 - <a href="https://github.com/Tiana-C/S3-Static-Website">Host Static Website on AWS S3 Bucket</a>
 - <a href="https://github.com/Tiana-C/Internal-Security-Audit">Internal Security Audit</a>
 
-# I'm currently working on
-## CompTIA Network+ Certification
+## 📌I'm currently working on
+-CompTIA Network+ Certification
 
 
 <!--
