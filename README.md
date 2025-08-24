@@ -25,13 +25,16 @@ My passion for helping clients aligns well with the field of cybersecurity, wher
 - <a href="https://github.com/Tiana-C/S3-Static-Website">Host Static Website on AWS S3 Bucket</a>
 - <a href="https://github.com/Tiana-C/Internal-Security-Audit">Internal Security Audit</a>
 
+# I'm currently working on
+## CompTIA Network+ Certification
+
 
 <!--
 **Tiana-C/Tiana-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
