@@ -1,10 +1,10 @@
 # Tiana Coats
 <a href="https://www.linkedin.com/in/tiana-coats-78618725a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a cybersecurity student who is self-driven and is eager to learn and advance my career. 
+B.S. Cloud and Network Engineering Student at Western Governors University
 
 ## Objective
-My passion for helping clients aligns well with the field of cybersecurity, where I am driven by the opportunity to protect clients’ sensitive information and systems. I find the challenges within cybersecurity both rewarding and motivating, and I am eager to contribute my skills to safeguard digital environments while continuing to grow in my career. I look forward to utilizing my strengths to enhance security and ensure client confidence.
+Cloud and Network Engineering professional with experience in AWS solutions, networking infrastructure, troubleshooting, and optimizing cloud environments for performance and reliability.
 
 ## Skills
 
