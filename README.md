@@ -27,7 +27,7 @@ Cloud and Network Engineering professional with experience in AWS solutions, net
 - <a href="https://github.com/Tiana-C/Internal-Security-Audit">Internal Security Audit</a>
 
 ## 📌I'm currently working on
--CompTIA Network+ Certification
+- CompTIA Network+ Certification
 
 
 <!--
