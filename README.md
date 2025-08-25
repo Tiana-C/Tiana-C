@@ -10,7 +10,7 @@ My passion for helping clients aligns well with the field of cybersecurity, wher
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Internal Security Audit         | <a href="https://github.com/Tiana-C/Internal-Security-Audit">Internal Security Audit</a>|
+| AWS ECS        | <a href="https://github.com/Tiana-C/ECS-using-EC2-in-HA-Architecture-">ECS using EC2 in HA Architecture</a>|
 
 ## 🌟Certifications
 
@@ -22,6 +22,7 @@ My passion for helping clients aligns well with the field of cybersecurity, wher
 </div>
 
 ## ✅Projects
+- <a href="https://github.com/Tiana-C/ECS-using-EC2-in-HA-Architecture-">ECS using EC2 in HA Architecture</a>
 - <a href="https://github.com/Tiana-C/S3-Static-Website">Host Static Website on AWS S3 Bucket</a>
 - <a href="https://github.com/Tiana-C/Internal-Security-Audit">Internal Security Audit</a>
 
