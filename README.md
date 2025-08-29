@@ -28,6 +28,7 @@ Cloud and Network Engineering professional with experience in AWS solutions, net
 
 ## 📌I'm currently working on
 - CompTIA Network+ Certification
+- <a href="https://github.com/Tiana-C/Raspberry-Pi-Cat-Detection-">Raspberry Pi Cat Detection</a>
 
 
 <!--
